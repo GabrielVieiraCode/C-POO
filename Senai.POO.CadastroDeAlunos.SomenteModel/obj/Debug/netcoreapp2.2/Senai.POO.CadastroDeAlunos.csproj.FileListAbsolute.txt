@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\bin\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.deps.json
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\bin\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.runtimeconfig.json
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\bin\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\bin\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.dll
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\bin\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.pdb
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.dll
+C:\Users\fic\Desktop\Senai.POO.CadastroDeAlunos.SomenteModel\obj\Debug\netcoreapp2.2\Senai.POO.CadastroDeAlunos.pdb
