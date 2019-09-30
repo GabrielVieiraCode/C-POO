@@ -1,11 +1,12 @@
 using System;
+using System.Collections.Generic;
 
 namespace Aula_POO_3.Models {
     public class FuncionarioModel : PessoaModel {
-        public FuncionarioModel (string cargo) {
-            this.Cargo = cargo;
+        // public FuncionarioModel (string cargo) {
+        //     this.Cargo = cargo;
 
-        }
+        // }
 
         public FuncionarioModel()
         {
@@ -13,19 +14,27 @@ namespace Aula_POO_3.Models {
 
         public string Cargo { get; set; }
 
+       
+
         public void Trabalhar () {
             System.Console.WriteLine ("Agora vamos trabalhar");
 
         }
-        public void Cadastrarfuncionario () {
+        public FuncionarioModel Cadastrarfuncionario () {
+
+            FuncionarioModel funcionario = new FuncionarioModel();
             System.Console.WriteLine ("Digite o nome do funcionario");
-            Nome = Console.ReadLine ();
+            funcionario.Nome = Console.ReadLine ();
 
             System.Console.WriteLine ("Digite a idade do funcionario");
-            Idade = int.Parse (Console.ReadLine ());
+            funcionario.Idade = int.Parse (Console.ReadLine ());
 
             System.Console.WriteLine ("Digite o cargo do funcionario");
-            Cargo = Console.ReadLine ();
+            funcionario.Cargo = Console.ReadLine ();
+            
+           
+           
+            return funcionario;
         }
 
     }

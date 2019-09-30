@@ -13,7 +13,7 @@ namespace Aula_POO_3.Models
         }
 
         public void Andar(){
-        System.Console.WriteLine("Vamso andar");
+        System.Console.WriteLine("Vamos andar");
         }
 
         public void Dormir(){

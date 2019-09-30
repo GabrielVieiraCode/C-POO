@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Aula_POO_3.Models;
 
 namespace Aula_POO_3
@@ -8,6 +9,8 @@ namespace Aula_POO_3
         static void Main(string[] args)
         {   //Descriçao da atividade
             Console.WriteLine("Aula POO herança");
+
+             List<FuncionarioModel>ListaDeFuncionarios = new List<FuncionarioModel>();
           
             // estanciando o objeto
             FuncionarioModel funcionario =  new  FuncionarioModel();
@@ -31,8 +34,16 @@ namespace Aula_POO_3
             //Inicio do switch opçao
             switch (opcao){
                 case 1:
-                // Cadastrando
-                funcionario.Cadastrarfuncionario();
+                // Cadastrar
+               FuncionarioModel funcionariocadastrado = funcionario.Cadastrarfuncionario();
+               ListaDeFuncionarios.Add(funcionariocadastrado);
+
+               //Listando os funcionarios
+               foreach(var item in ListaDeFuncionarios)
+               {
+                    System.Console.WriteLine($"Funcionario: {item.Nome}");
+               }
+                
                
                 break;
 
