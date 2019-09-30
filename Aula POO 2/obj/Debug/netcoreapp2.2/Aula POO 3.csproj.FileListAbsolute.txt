@@ -9,3 +9,14 @@ C:\Users\fic\Desktop\Aula POO 3\obj\Debug\netcoreapp2.2\Aula POO 3.AssemblyInfoI
 C:\Users\fic\Desktop\Aula POO 3\obj\Debug\netcoreapp2.2\Aula POO 3.AssemblyInfo.cs
 C:\Users\fic\Desktop\Aula POO 3\obj\Debug\netcoreapp2.2\Aula POO 3.dll
 C:\Users\fic\Desktop\Aula POO 3\obj\Debug\netcoreapp2.2\Aula POO 3.pdb
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\bin\Debug\netcoreapp2.2\Aula POO 3.deps.json
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\bin\Debug\netcoreapp2.2\Aula POO 3.runtimeconfig.json
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\bin\Debug\netcoreapp2.2\Aula POO 3.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\bin\Debug\netcoreapp2.2\Aula POO 3.dll
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\bin\Debug\netcoreapp2.2\Aula POO 3.pdb
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\obj\Debug\netcoreapp2.2\Aula POO 3.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\obj\Debug\netcoreapp2.2\Aula POO 3.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\obj\Debug\netcoreapp2.2\Aula POO 3.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\obj\Debug\netcoreapp2.2\Aula POO 3.AssemblyInfo.cs
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\obj\Debug\netcoreapp2.2\Aula POO 3.dll
+C:\Users\fic\Desktop\Atividade POO\C#-POO\Aula POO 2\obj\Debug\netcoreapp2.2\Aula POO 3.pdb

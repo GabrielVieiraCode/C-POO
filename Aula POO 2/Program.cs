@@ -6,36 +6,42 @@ namespace Aula_POO_3
     class Program
     {
         static void Main(string[] args)
-        {
+        {   //Descriçao da atividade
             Console.WriteLine("Aula POO herança");
-
-            FuncionarioModel func = new FuncionarioModel();
-
+          
+            // estanciando o objeto
             FuncionarioModel funcionario =  new  FuncionarioModel();
 
-            
+            // declarando Variavel opçao
             int opcao;
-            
+
+            //Inicio do laço
             do
-            { System.Console.WriteLine("Escolha uma opçao");
+            {   // Criando menu de opçoes
+                 System.Console.WriteLine("Escolha uma opçao");
 
             System.Console.WriteLine($@"
             1- Cadastrar funcionario
             2- Executar açoes
             0- Sair
             ");
+            //lendo valor digitado e armazenando no variavel opçao
             opcao =int.Parse(Console.ReadLine());
 
+            //Inicio do switch opçao
             switch (opcao){
                 case 1:
+                // Declarando o obejto
                 funcionario.Cadastrarfuncionario();
                
                 break;
 
                 case 2:
+                // Declarando a variavel açao
                 int acao;
                 do
-                { System.Console.WriteLine($@"
+                {// Criando o menu de açao do funcionario
+                     System.Console.WriteLine($@"
                 Escolha uma das açoes para o funcionario {funcionario.Nome}
                 1- Andar
                 2- Comer
@@ -43,9 +49,10 @@ namespace Aula_POO_3
                 0- Sair
                 
                 ");
+                // armazenando valor digitado na variavel açao
                 acao =int.Parse(Console.ReadLine());
                 
-                switch(acao){
+                switch(acao){// Inicio do switch açao
                     case 1:
                     funcionario.Andar();
                     
@@ -68,7 +75,7 @@ namespace Aula_POO_3
                     default:
                     System.Console.WriteLine("opçao invalida");
                     break;
-                }
+                }// Fim do switch açao
 
 
                 }while(acao!=0);
@@ -83,7 +90,7 @@ namespace Aula_POO_3
                 break;
 
 
-            }
+            }//Fim do switch opçao
             
 
 
