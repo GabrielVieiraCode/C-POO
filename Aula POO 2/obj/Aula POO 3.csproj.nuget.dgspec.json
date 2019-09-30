@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\Atividade POO\\C#-POO\\Aula POO 2\\Aula POO 3.csproj": {}
+    "C:\\Users\\fic\\Desktop\\Atividade POO\\Aula POO 2\\Aula POO 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\Atividade POO\\C#-POO\\Aula POO 2\\Aula POO 3.csproj": {
+    "C:\\Users\\fic\\Desktop\\Atividade POO\\Aula POO 2\\Aula POO 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Atividade POO\\C#-POO\\Aula POO 2\\Aula POO 3.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Atividade POO\\Aula POO 2\\Aula POO 3.csproj",
         "projectName": "Aula POO 3",
-        "projectPath": "C:\\Users\\fic\\Desktop\\Atividade POO\\C#-POO\\Aula POO 2\\Aula POO 3.csproj",
+        "projectPath": "C:\\Users\\fic\\Desktop\\Atividade POO\\Aula POO 2\\Aula POO 3.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\Atividade POO\\C#-POO\\Aula POO 2\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\Atividade POO\\Aula POO 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

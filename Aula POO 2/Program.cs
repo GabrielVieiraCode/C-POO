@@ -31,7 +31,7 @@ namespace Aula_POO_3
             //Inicio do switch opçao
             switch (opcao){
                 case 1:
-                // Declarando o obejto
+                // Cadastrando
                 funcionario.Cadastrarfuncionario();
                
                 break;
@@ -54,6 +54,7 @@ namespace Aula_POO_3
                 
                 switch(acao){// Inicio do switch açao
                     case 1:
+                    //Executar
                     funcionario.Andar();
                     
 
