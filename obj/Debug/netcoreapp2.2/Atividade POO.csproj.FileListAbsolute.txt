@@ -9,3 +9,9 @@ C:\Users\fic\Desktop\Atividade POO\obj\Debug\netcoreapp2.2\Atividade POO.Assembl
 C:\Users\fic\Desktop\Atividade POO\obj\Debug\netcoreapp2.2\Atividade POO.AssemblyInfo.cs
 C:\Users\fic\Desktop\Atividade POO\obj\Debug\netcoreapp2.2\Atividade POO.dll
 C:\Users\fic\Desktop\Atividade POO\obj\Debug\netcoreapp2.2\Atividade POO.pdb
+C:\Users\fic\Desktop\Atividade POO\C#-POO\obj\Debug\netcoreapp2.2\Atividade POO.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Atividade POO\C#-POO\obj\Debug\netcoreapp2.2\Atividade POO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Atividade POO\C#-POO\obj\Debug\netcoreapp2.2\Atividade POO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Atividade POO\C#-POO\obj\Debug\netcoreapp2.2\Atividade POO.AssemblyInfo.cs
+C:\Users\fic\Desktop\Atividade POO\C#-POO\obj\Debug\netcoreapp2.2\Atividade POO.dll
+C:\Users\fic\Desktop\Atividade POO\C#-POO\obj\Debug\netcoreapp2.2\Atividade POO.pdb
