@@ -55,10 +55,9 @@ namespace Ativiade_cadastro.HortFrutcontrollers
                 {
                     
                   total = total +(item.Preço*item.Estoque);
-                  System.Console.WriteLine($"total do valor de estoque é {total}");
-
 
                 }
+                  System.Console.WriteLine($"total do valor de estoque é {total}");
         }
     }
 }

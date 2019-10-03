@@ -9,3 +9,14 @@ C:\Users\fic\Desktop\Ativiade cadastro\obj\Debug\netcoreapp2.2\Ativiade cadastro
 C:\Users\fic\Desktop\Ativiade cadastro\obj\Debug\netcoreapp2.2\Ativiade cadastro.AssemblyInfo.cs
 C:\Users\fic\Desktop\Ativiade cadastro\obj\Debug\netcoreapp2.2\Ativiade cadastro.dll
 C:\Users\fic\Desktop\Ativiade cadastro\obj\Debug\netcoreapp2.2\Ativiade cadastro.pdb
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\bin\Debug\netcoreapp2.2\Ativiade cadastro.deps.json
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\bin\Debug\netcoreapp2.2\Ativiade cadastro.runtimeconfig.json
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\bin\Debug\netcoreapp2.2\Ativiade cadastro.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\bin\Debug\netcoreapp2.2\Ativiade cadastro.dll
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\bin\Debug\netcoreapp2.2\Ativiade cadastro.pdb
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\obj\Debug\netcoreapp2.2\Ativiade cadastro.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\obj\Debug\netcoreapp2.2\Ativiade cadastro.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\obj\Debug\netcoreapp2.2\Ativiade cadastro.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\obj\Debug\netcoreapp2.2\Ativiade cadastro.AssemblyInfo.cs
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\obj\Debug\netcoreapp2.2\Ativiade cadastro.dll
+C:\Users\fic\Desktop\Atividade POO\Ativiade cadastro\obj\Debug\netcoreapp2.2\Ativiade cadastro.pdb

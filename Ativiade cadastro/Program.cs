@@ -29,7 +29,9 @@ namespace Ativiade_cadastro
             break;
 
             default:
+            Console.ForegroundColor = ConsoleColor.Red;
                 System.Console.WriteLine("Opçao invalida");
+            Console.ResetColor();    
 
             break;
 

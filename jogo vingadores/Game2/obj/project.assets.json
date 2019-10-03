@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\Atividade POO\\Ativiade cadastro\\Ativiade cadastro.csproj",
-      "projectName": "Ativiade cadastro",
-      "projectPath": "C:\\Users\\fic\\Desktop\\Atividade POO\\Ativiade cadastro\\Ativiade cadastro.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\gamers\\Game2\\Game2.csproj",
+      "projectName": "Game2",
+      "projectPath": "C:\\Users\\fic\\Desktop\\gamers\\Game2\\Game2.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\Atividade POO\\Ativiade cadastro\\obj\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\gamers\\Game2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
